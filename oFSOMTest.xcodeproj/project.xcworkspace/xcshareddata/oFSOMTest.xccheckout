@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>833E0C17-EBA9-41EC-AC78-699A436F19F1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>oFSOMTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FFD242C-43F3-48CF-8EB4-8CB559164434</key>
+		<string>https://github.com/chikashimiyama/oFSOMTest.git</string>
+		<key>F820159C-7044-430F-8206-83F286E33C0F</key>
+		<string>https://github.com/nickgillian/grt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>oFSOMTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FFD242C-43F3-48CF-8EB4-8CB559164434</key>
+		<string>../..</string>
+		<key>F820159C-7044-430F-8206-83F286E33C0F</key>
+		<string>../../grt</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chikashimiyama/oFSOMTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FFD242C-43F3-48CF-8EB4-8CB559164434</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F820159C-7044-430F-8206-83F286E33C0F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>grt</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FFD242C-43F3-48CF-8EB4-8CB559164434</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oFSOMTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
